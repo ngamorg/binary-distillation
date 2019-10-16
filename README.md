@@ -1,2 +1,2 @@
-# Distillation
-Notebooks and scripts on distillation topics.
+# Binary distillation
+Notebooks and scripts on basic distillation topics.
